@@ -28,6 +28,7 @@ gem "puma"
 gem "newrelic_rpm"
 gem "rubocop", require: false
 gem 'good_services', '~> 0.2.0'
+gem "rollbar"
 
 group :development do
   gem "web-console"
